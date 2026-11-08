@@ -28,6 +28,33 @@ Most of my day is keeping things running: the servers, the containers, the datab
 - Real-time notifications between two apps that share one database, using `LISTEN/NOTIFY`
 - Cutting frontend build and load times by moving off Create React App to Vite
 
+#### GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Tonmoy2208&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Tonmoy2208&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Tonmoy2208&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" height="165">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonmoy2208&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonmoy2208&layout=compact&theme=default&hide_border=true">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonmoy2208&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="165">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Tonmoy2208&theme=github-dark-blue&hide_border=true&background=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Tonmoy2208&theme=default&hide_border=true">
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=Tonmoy2208&theme=github-dark-blue&hide_border=true&background=0d1117" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Tonmoy2208&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=e6edf3&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Tonmoy2208&theme=github-light&area=true&hide_border=true">
+  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Tonmoy2208&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=e6edf3&area=true&hide_border=true" width="100%">
+</picture>
+
+<br/>
+
 #### Tools I use most
 
 `Linux` `Docker` `Docker Compose` `Nginx` `GitHub Actions` `Cloudflare` `PostgreSQL` `Node.js` `Express` `React` `Bash` `Git`
