@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="372" viewBox="0 0 900 372" role="img" aria-label="Tonmoy Sarker, System and DevOps Engineer at Loop Freight">
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; }
+    .txt  { fill: #1f2328; }
+    .mut  { fill: #656d76; }
+    .grn  { fill: #1a7f37; }
+    .blu  { fill: #0969da; }
+    .amb  { fill: #9a6700; }
+    .b    { font-weight: 700; }
+
+    .l { opacity: 0; animation: show 0.01s steps(1) forwards; }
+    .t { transform: scaleX(0); animation: type 0.7s steps(18) forwards; }
+    .cursor { animation: blink 1s steps(1) infinite; animation-delay: 4.6s; opacity: 0; }
+
+    @keyframes show  { to { opacity: 1; } }
+    @keyframes type  { to { transform: scaleX(1); } }
+    @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0; } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .l, .cursor { opacity: 1; animation: none; }
+      .t { transform: none; animation: none; }
+    }
+  </style>
+
+  <defs>
+    <clipPath id="c1"><rect class="t" x="210" y="60" width="200" height="26" style="transform-origin:210px 0;animation-delay:0.4s"/></clipPath>
+    <clipPath id="c2"><rect class="t" x="210" y="122" width="200" height="26" style="transform-origin:210px 0;animation-delay:1.6s"/></clipPath>
+    <clipPath id="c3"><rect class="t" x="210" y="184" width="260" height="26" style="transform-origin:210px 0;animation-delay:2.8s"/></clipPath>
+  </defs>
+
+  <!-- window -->
+  <rect x="0.5" y="0.5" width="899" height="371" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+  <path d="M10.5 0.5 H889.5 A10 10 0 0 1 899.5 10.5 V36.5 H0.5 V10.5 A10 10 0 0 1 10.5 0.5 Z" fill="#f6f8fa"/>
+  <line x1="0.5" y1="36.5" x2="899.5" y2="36.5" stroke="#d0d7de"/>
+  <circle cx="22" cy="18.5" r="5.5" fill="#d0d7de"/>
+  <circle cx="40" cy="18.5" r="5.5" fill="#d0d7de"/>
+  <circle cx="58" cy="18.5" r="5.5" fill="#d0d7de"/>
+  <text x="450" y="23" text-anchor="middle" class="mono mut" style="font-size:12.5px">tonmoy@loop-prod: ~</text>
+
+  <!-- whoami -->
+  <g class="l" style="animation-delay:0.2s">
+    <text x="28" y="78" class="mono"><tspan class="grn">tonmoy@loop-prod</tspan><tspan class="mut">:</tspan><tspan class="blu">~</tspan><tspan class="mut">$</tspan></text>
+  </g>
+  <g clip-path="url(#c1)"><text x="210" y="78" class="mono txt">whoami</text></g>
+  <text x="28" y="104" class="mono l" style="animation-delay:1.2s"><tspan class="txt b">Tonmoy Sarker</tspan><tspan class="mut">  ·  System &amp; DevOps Engineer at Loop Freight, Dhaka</tspan></text>
+
+  <!-- focus -->
+  <g class="l" style="animation-delay:1.4s">
+    <text x="28" y="140" class="mono"><tspan class="grn">tonmoy@loop-prod</tspan><tspan class="mut">:</tspan><tspan class="blu">~</tspan><tspan class="mut">$</tspan></text>
+  </g>
+  <g clip-path="url(#c2)"><text x="210" y="140" class="mono txt">cat focus.txt</text></g>
+  <text x="28" y="166" class="mono txt l" style="animation-delay:2.4s">linux servers, docker, ci/cd, postgresql, networking</text>
+
+  <!-- services -->
+  <g class="l" style="animation-delay:2.6s">
+    <text x="28" y="202" class="mono"><tspan class="grn">tonmoy@loop-prod</tspan><tspan class="mut">:</tspan><tspan class="blu">~</tspan><tspan class="mut">$</tspan></text>
+  </g>
+  <g clip-path="url(#c3)"><text x="210" y="202" class="mono txt">docker compose ps</text></g>
+
+  <g class="l" style="animation-delay:3.6s">
+    <text x="28"  y="230" class="mono mut">NAME</text>
+    <text x="270" y="230" class="mono mut">WHAT IT IS</text>
+    <text x="560" y="230" class="mono mut">STATUS</text>
+  </g>
+  <g class="l" style="animation-delay:3.8s">
+    <text x="28"  y="256" class="mono txt">loop-strata</text>
+    <text x="270" y="256" class="mono mut">admin platform</text>
+    <circle cx="566" cy="251" r="4" fill="#1a7f37"/><text x="580" y="256" class="mono grn">running</text>
+  </g>
+  <g class="l" style="animation-delay:4.0s">
+    <text x="28"  y="282" class="mono txt">loop-hive</text>
+    <text x="270" y="282" class="mono mut">field agent app</text>
+    <circle cx="566" cy="277" r="4" fill="#1a7f37"/><text x="580" y="282" class="mono grn">running</text>
+  </g>
+  <g class="l" style="animation-delay:4.2s">
+    <text x="28"  y="308" class="mono txt">loop-onboard</text>
+    <text x="270" y="308" class="mono mut">vendor onboarding</text>
+    <circle cx="566" cy="303" r="4" fill="#1a7f37"/><text x="580" y="308" class="mono grn">running</text>
+  </g>
+
+  <!-- prompt -->
+  <g class="l" style="animation-delay:4.5s">
+    <text x="28" y="344" class="mono"><tspan class="grn">tonmoy@loop-prod</tspan><tspan class="mut">:</tspan><tspan class="blu">~</tspan><tspan class="mut">$</tspan></text>
+  </g>
+  <rect class="cursor" x="210" y="331" width="9" height="17" fill="#1f2328"/>
+</svg>
