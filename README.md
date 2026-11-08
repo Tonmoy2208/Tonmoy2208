@@ -44,14 +44,14 @@ Most of my day is keeping things running: the servers, the containers, the datab
 #### GitHub activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Tonmoy2208&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Tonmoy2208&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Tonmoy2208&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" height="165">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Tonmoy2208&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Tonmoy2208&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true">
+  <img alt="GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tonmoy2208&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" height="165">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonmoy2208&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonmoy2208&layout=compact&theme=default&hide_border=true">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonmoy2208&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="165">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tonmoy2208&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tonmoy2208&layout=compact&theme=default&hide_border=true">
+  <img alt="Top languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tonmoy2208&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="165">
 </picture>
 
 <picture>
@@ -61,9 +61,9 @@ Most of my day is keeping things running: the servers, the containers, the datab
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Tonmoy2208&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=e6edf3&area=true&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Tonmoy2208&theme=github-light&area=true&hide_border=true">
-  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Tonmoy2208&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=e6edf3&area=true&hide_border=true" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/3fb950/Tonmoy2208">
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/216e39/Tonmoy2208">
+  <img alt="Contribution graph" src="https://ghchart.rshah.org/3fb950/Tonmoy2208" width="100%">
 </picture>
 
 <br/>
