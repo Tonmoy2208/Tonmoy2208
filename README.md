@@ -28,6 +28,19 @@ Most of my day is keeping things running: the servers, the containers, the datab
 - Real-time notifications between two apps that share one database, using `LISTEN/NOTIFY`
 - Cutting frontend build and load times by moving off Create React App to Vite
 
+#### What I've built
+
+- **Loop Strata**: the admin platform for managing trips, bidding, invoicing and vendor payouts
+- **Loop Hive**: the mobile app our field agents use to place bids, assign trucks and onboard drivers
+- **Loop Onboard**: vendor onboarding, replacing a form that kept breaking
+
+#### How I work
+
+- I write down why a fix was made, so the next person isn't guessing at 2 AM
+- I look for the cause, not just the symptom
+- I check that a deploy is actually live before calling it done
+- I'd rather run a boring system that stays up than a clever one that doesn't
+
 #### GitHub activity
 
 <picture>
@@ -62,3 +75,7 @@ Most of my day is keeping things running: the servers, the containers, the datab
 #### Get in touch
 
 [LinkedIn](https://www.linkedin.com/in/tonmoysarker2208/) · [Email](mailto:tonmoysarker2208@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Tonmoy2208&label=Profile+views&color=30363d&style=flat-square" alt="Profile views">
