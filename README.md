@@ -72,6 +72,27 @@ Most of my day is keeping things running: the servers, the containers, the datab
 
 `Linux` `Docker` `Docker Compose` `Nginx` `GitHub Actions` `Cloudflare` `PostgreSQL` `Node.js` `Express` `React` `Bash` `Git`
 
+#### Certifications
+
+**Linux**
+- Red Hat Certified System Administrator (RHCSA, EX200), 300/300, Oct 2026
+- Red Hat System Administration I (RH124), course attendance, Jun 2026
+
+**Networking**
+- MikroTik Certified Inter-Networking Engineer (MTCINE), Dec 2025
+- MikroTik Certified Switching Engineer (MTCSWE), Dec 2025
+- MikroTik Certified Security Engineer (MTCSE), Feb 2025
+- MikroTik Certified Routing Engineer (MTCRE), Jan 2025
+- MikroTik Certified Network Associate (MTCNA), Jan 2025
+- Ruijie Certified Network Associate (RCNA), Jan 2025
+- Cisco Certified Network Associate, Routing and Switching (CCNA), Nov 2020 (expired Oct 2024)
+
+**Security, support and cloud**
+- Certified Ethical Hacker (CEH) course and Introduction to Cybersecurity, Cisco Networking Academy, Dec 2024
+- Introduction to Modern AI, Cisco Networking Academy, Nov 2024
+- Google IT Support Specialization, Jul 2024, and Technical Support Fundamentals, Feb 2024
+- Introduction to Cloud Computing, IBM, Feb 2024
+
 #### Get in touch
 
 [LinkedIn](https://www.linkedin.com/in/tonmoysarker2208/) · [Email](mailto:tonmoysarker2208@gmail.com)
